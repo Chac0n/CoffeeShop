@@ -1,0 +1,53 @@
+body {
+  background-image: url('coffeeShopBackground.jfif');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+input[type=text] {
+  width: 40%;
+  padding: 12px 20px;
+  margin: auto;
+  display: block;
+  border: 1px solid #ccc;
+  box-sizing: border-box;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 12px;
+}
+
+.button {
+  background-color: #D2B48C;
+  color: white;
+  padding: 14px 0px;
+  margin: auto;
+  border: none;
+  cursor: pointer;
+  width: 19%;
+  text-align: center; 
+  border-radius: 12px;
+}
+
+.button2 {
+ background-color: #4CAF50;
+}
+
+#botones {
+  width: 100%;
+  text-align: center;
+}
+
+.imgcontainer {
+  text-align: center;
+  margin: 0px 0 0px 0;
+}
+
+img.logo {
+  width: 40%;
+}
+
+.input {
+  padding: 16px;
+}
